@@ -12,7 +12,7 @@ const TelDir = () => {
     );
 
     return (
-        <div className="min-h-screen bg-gradient-to-tr from-indigo-50 via-blue-100 to-sky-50 py-10 px-4 sm:px-8">
+        <div style={{ backgroundColor: '#E1E4E8' }} className="min-h-screen py-10 px-4 sm:px-8">
             <div className="max-w-4xl mx-auto bg-white border border-gray-200 shadow-2xl rounded-3xl p-8 transition-all duration-300">
                 <h1 className="text-4xl font-bold text-center text-indigo-700 mb-8 tracking-tight flex justify-center items-center">
                     <img
