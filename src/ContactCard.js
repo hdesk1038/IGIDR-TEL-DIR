@@ -25,9 +25,11 @@ const ContactCard = (props) => {
                     </Link>
                 )}
             </div>
-            <h2 className="px-3 py-1 bg-red-500 text-white rounded-full font-medium tracking-wide shadow-lg">
-                {department}
-            </h2>
+            {
+                department && (<h2 className="px-3 py-1 bg-red-500 text-white rounded-full font-medium tracking-wide shadow-lg">
+                    {department}
+                </h2>)
+            }
         </div>
     )
 }
