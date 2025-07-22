@@ -127,4 +127,48 @@ export const contactsData = [
     }, {
         name: "Administration", phone: "560 / 561 / 562 / 573", department: "Sites"
     },
+    {
+        name: "Seminar Halls", phone: "567", department: "Sites"
+    }, {
+        name: "Cafeteria", phone: "599", department: "Sites"
+    }, {
+        name: "Car Park", phone: "309", department: "Sites"
+    }, {
+        name: "Computer Centre(Ground Floor)", phone: "580 / 582", department: "Sites"
+    }, {
+        name: "Computer Centre(First Floor)", phone: "581 / 583", department: "Sites"
+    }, {
+        name: "Dining Hall(Guest House)", phone: "412", department: "Sites"
+    }, {
+        name: "Faculty Lounge", phone: "540", department: "Sites"
+    },
+    {
+        name: "Guest House Reception", phone: "411", department: "Sites"
+    }, {
+        name: "Help desk - CC", phone: "581", department: "Sites"
+    }, {
+        name: "Housekeeping Office", phone: "401", department: "Sites"
+    }, {
+        name: "Library", phone: "528 / 506 / 504 / 508 / 547", department: "Sites"
+    }, {
+        name: "Lift near Canteen", phone: "574", department: "Sites"
+    }, {
+        name: "Lift-Library", phone: "575", department: "Sites"
+    }, {
+        name: "Security (Main Gate)", phone: "301 / 302", department: "Sites"
+    }, {
+        name: "Seminar Halls", phone: "567", department: "Sites"
+    }, {
+        name: "Tel.Operator", phone: "9", department: "Sites"
+    }, {
+        name: "Admin conference room", phone: "204", department: "Sites"
+    }, {
+        name: "Conference Room", phone: "209", department: "Sites"
+    }, {
+        name: "Gymnasium", phone: "242", department: "Sites"
+    }, {
+        name: "Auditors", phone: "523", department: "Sites"
+    }, {
+        name: "House Keeping K", phone: "401", department: "Sites"
+    },
 ];
