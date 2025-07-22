@@ -1,6 +1,7 @@
 import { Mail, Phone } from 'lucide-react'
 import React from 'react'
 import { Link } from 'react-router';
+import { EMAIL_CONST } from '../utils/constant';
 
 const ContactCard = (props) => {
     console.log(props)
@@ -16,11 +17,11 @@ const ContactCard = (props) => {
                     <Phone className="w-5 h-5 text-blue-600 mr-[10px]" />
                     {phone || "N/A"}
                 </h2>
-                {email && (
-                    <Link to={`mailto:${email}`}>
+                {(email + EMAIL_CONST) && (
+                    <Link to={`mailto:${email}${EMAIL_CONST}`}>
                         <h2 className="text-xl font-bold text-indigo-600 flex items-center mt-[10px] cursor-pointer hover:text-indigo-500">
                             <Mail className="w-5 h-5 text-red-600 mr-[10px]" />
-                            {email}
+                            {email + EMAIL_CONST}
                         </h2>
                     </Link>
                 )}

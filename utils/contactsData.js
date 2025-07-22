@@ -1,64 +1,64 @@
 export const contactsData = [
-    { name: "Prof. Basanta Pradhan", phone: "501 / 201", email: "director@igidr.ac.in", department: "Director" },
+    { name: "Prof. Basanta Pradhan", phone: "501 / 201", email: "director", department: "Director" },
     {
-        name: "Martha Lobo", phone: "585", email: "martha@igidr.ac.in", department: "Director's Office"
+        name: "Martha Lobo", phone: "585", email: "martha", department: "Director's Office"
     },
-    { name: "Jai Mohan Pandit", phone: "505 / 205", email: "jmpandit@igidr.ac.in", department: "Registrar" },
-    
+    { name: "Jai Mohan Pandit", phone: "505 / 205", email: "jmpandit", department: "Registrar" },
+
     {
-        name: "Lavina D'Souza", phone: "539", email: "lavina@igidr.ac.in", department: "Registar's Office"
+        name: "Lavina D'Souza", phone: "539", email: "lavina", department: "Registar's Office"
     },
-    { name: "Amit Gaikwad", phone: "507", email: "amitg@igidr.ac.in", department: "Estate & Maintenance" },
-    
+    { name: "Amit Gaikwad", phone: "507", email: "amitg", department: "Estate & Maintenance" },
+
     {
-        name: "Nelson D'souza", phone: "560", email: "nelson@igidr.ac.in", department: "Estate & Maintenance"
+        name: "Nelson D'souza", phone: "560", email: "nelson", department: "Estate & Maintenance"
     },
-    
+
     {
-        name: "Samir Parab", phone: "588 / 288", email: "samir@igidr.ac.in", department: "Administration & HR"
-    },
-    {
-        name: "Archana Sharma", phone: "572", email: "archana@igidr.ac.in", department: "Administration & HR"
+        name: "Samir Parab", phone: "588 / 288", email: "samir", department: "Administration & HR"
     },
     {
-        name: "Sayli Charatkar", phone: "530", email: "sayli@igidr.ac.in", department: "Administration & HR"
+        name: "Archana Sharma", phone: "572", email: "archana", department: "Administration & HR"
     },
     {
-        name: "Dean", email: "dean@igidr.ac.in", department: "Student Office"
+        name: "Sayli Charatkar", phone: "530", email: "sayli", department: "Administration & HR"
     },
     {
-        name: "Pratiksha Worlikar", phone: "530", email: "pratiksha@igidr.ac.in", department: "Student Office"
+        name: "Dean", email: "dean", department: "Student Office"
     },
     {
-        name: "Fabina D'mello", phone: "576", email: "fabina@igidr.ac.in", department: "Student Office"
+        name: "Pratiksha Worlikar", phone: "530", email: "pratiksha", department: "Student Office"
     },
     {
-        name: "Mukund Bhambere", phone: "538 / 238", email: "mukund@igidr.ac.in", department: "Accounts"
+        name: "Fabina D'mello", phone: "576", email: "fabina", department: "Student Office"
     },
     {
-        name: "Ranjana Jha", phone: "584 / 265", email: "ranjana@igidr.ac.in", department: "Accounts"
+        name: "Mukund Bhambere", phone: "538 / 238", email: "mukund", department: "Accounts"
     },
     {
-        name: "Gawde Narayan", phone: "569", email: "gawde@igidr.ac.in", department: "Accounts"
+        name: "Ranjana Jha", phone: "584 / 265", email: "ranjana", department: "Accounts"
     },
     {
-        name: "Mahesh Kumar", phone: "571", email: "mahesh@igidr.ac.in", department: "Accounts"
+        name: "Gawde Narayan", phone: "569", email: "gawde", department: "Accounts"
     },
     {
-        name: "Vishakha Narvekar", phone: "578", email: "vishakha@igidr.ac.in", department: "Accounts"
+        name: "Mahesh Kumar", phone: "571", email: "mahesh", department: "Accounts"
     },
     {
-        name: "Lingaraj Panda", phone: "548 / 248", email: "lavina@igidr.ac.in", department: "Information Technology"
+        name: "Vishakha Narvekar", phone: "578", email: "vishakha", department: "Accounts"
     },
     {
-        name: "Pravin Dalvi", phone: "580", email: "pravind@igidr.ac.in", department: "Information Technology"
-    },
-    
-    {
-        name: "S. M. Pujar", phone: "528 / 228", email: "pujar@igidr.ac.in", department: "Library"
+        name: "Lingaraj Panda", phone: "548 / 248", email: "lingaraj", department: "Information Technology"
     },
     {
-        name: "Vinita Hattangadi", phone: "504", email: "vinita@igidr.ac.in", department: "Library"
+        name: "Pravin Dalvi", phone: "580", email: "pravind", department: "Information Technology"
+    },
+
+    {
+        name: "S. M. Pujar", phone: "528 / 228", email: "pujar", department: "Library"
+    },
+    {
+        name: "Vinita Hattangadi", phone: "504", email: "vinita", department: "Library"
     },
     {
         name: "Dr. Office (RB-III)", phone: "594"
@@ -71,5 +71,60 @@ export const contactsData = [
     },
     {
         name: "Office Boy at Accounts", phone: "305"
-    }
+    },
+    {
+        name: "Ashima Goyal	", phone: "512", email: "ashima", department: "Faculty"
+    }, {
+        name: "Bharti Nandwani", phone: "554 / 254", email: "bharti", department: "Faculty"
+    }, {
+        name: "Chandrasekhar S.", phone: "551 / 251", email: "chandra", department: "Faculty"
+    }, {
+        name: "Disha Gupta", phone: "513 / 213", email: "disha", department: "Faculty"
+    }, {
+        name: "Goprakumar Achathankutty", phone: "552 /252", email: "gopakumar", department: "Faculty"
+    }, {
+        name: "Ganesh Kumar", phone: "522", email: "agk", department: "Faculty"
+    }, {
+        name: "Manisha Jain", phone: "517", email: "manishajain", department: "Faculty"
+    }, {
+        name: "Nachane D.M.", phone: "534", email: "nachane", department: "Faculty"
+    }, {
+        name: "Rajendra Vaidya", phone: "514", email: "vaidya", department: "Faculty"
+    }, {
+        name: "Ramaswamy K.V.", phone: "511 / 211", email: "swamy", department: "Faculty"
+    }, {
+        name: "Rupayan Pal", phone: "545", email: "rupayan", department: "Faculty"
+    }, {
+        name: "Rajeswari Sengupta", phone: "555 / 255", email: "rajeswari", department: "Faculty"
+    }, {
+        name: "Sargam Gupta", phone: "544 / 244", email: "sargam", department: "Faculty"
+    }, {
+        name: "Sharma V.K.", phone: "531 / 231", email: "vks", department: "Faculty"
+    }, {
+        name: "Shubhro Sarkar", phone: "543 / 243", email: "shubhro", department: "Faculty"
+    }, {
+        name: "Srijit Mishra", phone: "516", email: "srijit", department: "Faculty"
+    }, {
+        name: "Sudha Narayanan (On Leave)", phone: "-", email: "sudha", department: "Faculty"
+    }, {
+        name: "Sudhakar Yedla", phone: "533 / 233", email: "sudhakar", department: "Faculty"
+    }, {
+        name: "Taniya Ghosh", phone: "536 / 236", email: "taniya", department: "Faculty"
+    }, {
+        name: "Veeramani (On Leave)", phone: "556 / 256", email: "veeramani", department: "Faculty"
+    },
+    {
+        name: "Vijayalaxmi Pandey", phone: "503", email: "vijay", department: "Faculty"
+    },
+    {
+        name: "Vijayalaxmi Pandey", phone: "503", email: "vijay", department: "Faculty"
+    },
+    {
+        name: "A.C.Plant", phone: "568", department: "Sites"
+    },
+    {
+        name: "Accounts", phone: "563 / 570 / 571 / 569 / 578", department: "Sites"
+    }, {
+        name: "Administration", phone: "560 / 561 / 562 / 573", department: "Sites"
+    },
 ];
