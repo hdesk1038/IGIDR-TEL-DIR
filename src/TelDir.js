@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Phone, Search } from "lucide-react";
+import { Search } from "lucide-react";
 import { contactsData } from "../utils/contactsData";
 import ContactCard from "./ContactCard";
 
@@ -14,7 +14,7 @@ const TelDir = () => {
         <div className="min-h-screen bg-gradient-to-tr from-indigo-50 via-blue-100 to-sky-50 py-10 px-4 sm:px-8">
             <div className="max-w-4xl mx-auto bg-white border border-gray-200 shadow-2xl rounded-3xl p-8 transition-all duration-300">
                 <h1 className="text-4xl font-bold text-center text-indigo-700 mb-8 tracking-tight flex justify-center items-center">
-                    <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Indira_Gandhi_Institute_of_Development_Research.svg" width="100px" /><span>IGIDR Telephone Directory &#x260E;</span>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Indira_Gandhi_Institute_of_Development_Research.svg" className="w-[70px] mr-[10px]" /><span>IGIDR Telephone Directory &#x260E;</span>
                 </h1>
 
                 {/* Search Bar */}
