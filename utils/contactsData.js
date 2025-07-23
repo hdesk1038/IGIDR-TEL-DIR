@@ -157,8 +157,6 @@ export const contactsData = [
     }, {
         name: "Security (Main Gate)", phone: "301 / 302", department: "Sites"
     }, {
-        name: "Seminar Halls", phone: "567", department: "Sites"
-    }, {
         name: "Tel.Operator", phone: "9", department: "Sites"
     }, {
         name: "Admin conference room", phone: "204", department: "Sites"
