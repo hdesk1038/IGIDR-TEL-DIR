@@ -67,7 +67,7 @@ export const contactsData = [
   { "name": "Tel. Operator / Reception", "phone": "9 / 564", "department": "Sites" },
   { "name": "Office Boy at Admin Ground Floor", "phone": "303", "department": "Sites" },
   { "name": "Office Boy at Admin First Floor", "phone": "304", "department": "Sites" },
-  { "name": "Office Boy at Accounts", "phone": "305", "department": "Sites" }
+  { "name": "Office Boy at Accounts", "phone": "305", "department": "Sites" },
   { "name": "Dindoshi (W)", "phone": "28712869", "department": "Emergency" },
   { "name": "Dindoshi (E)", "phone": "28406729", "department": "Emergency" },
   { "name": "Fire Brigade", "phone": "28770781", "department": "Emergency" },
