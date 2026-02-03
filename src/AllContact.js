@@ -42,7 +42,7 @@ const AllContact = () => {
                     </table>
                 </div>
                 <div className="p-4 text-center text-xs text-gray-500 border-t">
-                    Last updated: July 2025
+                    Last updated: 03<sup>rd</sup> February, 2026
                 </div>
             </div>
         </div>
