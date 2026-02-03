@@ -14,8 +14,8 @@ const AllContact = () => {
                     <table className="min-w-full table-auto text-sm text-gray-800">
                         <thead className="bg-indigo-300 text-red sticky top-0 z-10">
                             <tr>
-                                <th className="px-4 py-3 text-left">📍 Location</th>
-                                <th className="px-4 py-3 text-left">👤 Name / Dept</th>
+                                <th className="px-4 py-3 text-left">🏬 Department</th>
+                                <th className="px-4 py-3 text-left">👤 Name </th>
                                 <th className="px-4 py-3 text-left">📞 Contact</th>
                             </tr>
                         </thead>
