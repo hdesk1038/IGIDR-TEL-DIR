@@ -21,6 +21,7 @@ export const contactsData = [
     { name: "Vijayalaxmi Pandey", phone: "503 / 222", email: "vijay", department: "Faculty" },
     { name: "Ashima Goyal", phone: "512", email: "ashima", department: "Faculty" },
     { name: "Nachane D.M.", phone: "534", email: "nachane", department: "Faculty" },
+    { name: "Alaka Shree Prasad", phone: "549", email: "alaka", department: "Faculty" },
     { name: "Amit Gaikwad", phone: "507", email: "amitg", department: "Estate & Maintenance" },
     { name: "Archana Sharma", phone: "542", email: "archana", department: "Administration & HR" },
     { name: "Fabina D'mello", phone: "576", email: "fabina", department: "Student Office" },
