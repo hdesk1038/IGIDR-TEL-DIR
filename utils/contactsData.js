@@ -14,6 +14,7 @@ export const contactsData = [
     { name: "Sargam Gupta", phone: "544 / 244", email: "sargam", department: "Faculty" },
     { name: "Shubhro Sarkar", phone: "543 / 243", email: "shubhro", department: "Faculty" },
     { name: "Sriram Shankar", phone: "511 / 211", email: "sriram", department: "Faculty" },
+    { name: "Sandipan Saha", phone: "556", email: "sandipansaha", department: "Faculty" },
     { name: "Sudhakar Yedla", phone: "533 / 233", email: "sudhakar", department: "Faculty" },
     { name: "Swati Sharma", phone: "523 /246", email: "swati", department: "Faculty" },
     { name: "Taniya Ghosh", phone: "536 / 236", email: "taniya", department: "Faculty" },
